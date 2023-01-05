@@ -13,9 +13,20 @@ body {
   background-color: #fff1e3;
 }
 
-* {
+ * {
   box-sizing: border-box;
+} 
+
+
+
+@media (max-width: 600px) {
+  * {
+    box-sizing: border-box;
+    padding: .25em;
+  } 
 }
+
+
 
 a {
   color: rgba(248, 74, 74, 0.9);
@@ -47,4 +58,13 @@ sup {
   font-weight: 600;
   line-height: 0;
   vertical-align: super;
+}
+
+h2 {
+  padding-top: 1em;
+  font-family: 'Space Grotesk', sans-serif;
+  font-weight: 600;
+  font-size: 1.5rem;
+  line-height: 1.4;
+  margin: 1rem 0;
 }
