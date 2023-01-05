@@ -23,26 +23,22 @@ export default function Home({ allPostsData }) {
       <Head>
         <title>{siteTitle}</title>
       </Head>
-      <section className={utilStyles.headingMd}>
-        <p>[meesa tanvi]</p>
-        <p>
-          (This website is under construction{" "}
-          <a href="https://nextjs.org/learn">oops</a>.)
-        </p>
+      <section className={`${utilStyles.body} ${styles.center}`}>
+        (This website is under construction!{" "}
+        <a href="https://tanvi.network">here is some other stuff</a>.)
       </section>
 
-      {/* Add this <section> tag below the existing <section> tag */}
+      {/* Add this <section> tag below the existing <section> tag.
+      
+       below the thing with two classname is a template literal */}
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
-        <h2 className={utilStyles.headingLg}>Blog</h2>
-
         <div className={styles.grid}>
           {allPostsData.map(({ id, date, title }) => (
             <Link href={`/posts/${id}`} className={styles.card} key={id}>
-              <h3>{title}</h3>
-              <br />
               <small className={utilStyles.dateText}>
                 <Date dateString={date} />
               </small>
+              <h3>{title}</h3>
             </Link>
           ))}
         </div>

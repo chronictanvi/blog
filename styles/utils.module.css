@@ -1,7 +1,8 @@
 .heading2Xl {
+  font-family: 'Space Grotesk', sans-serif;
+  font-weight: 200;
   font-size: 2.5rem;
   line-height: 1.2;
-  font-weight: 800;
   letter-spacing: -0.05rem;
   margin: 1rem 0;
 }
@@ -17,7 +18,8 @@
 }
 
 .headingLg {
- 
+  font-family: 'Space Grotesk', sans-serif;
+  font-weight: 400;
   font-size: 1.5rem;
   line-height: 1.4;
   margin: 1rem 0;
@@ -57,7 +59,7 @@
 
 .dateText {
   font-family: 'IBM Plex Mono', monospace;
-  font-weight: 600;
+  font-weight: 500;
   font-size: small;
   color: rgb(248, 74, 74);
 }
