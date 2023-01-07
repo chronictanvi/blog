@@ -1,10 +1,11 @@
 import Layout from "../../components/layout";
-
-import { getAllPostIds, getPostData } from "../../lib/posts";
-import utilStyles from "../../styles/utils.module.css";
 import Head from "next/head";
 import Date from "../../components/date";
 
+import { getAllPostIds, getPostData } from "../../lib/posts";
+import utilStyles from "../../styles/utils.module.css";
+
+import styled from "styled-components";
 
 export async function getStaticProps({ params }) {
   // Add the "await" keyword like this:

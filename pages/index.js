@@ -3,10 +3,14 @@ import Layout, { siteTitle } from "../components/layout";
 
 import utilStyles from "../styles/utils.module.css";
 import styles from "../styles/Home.module.css";
+import styled from "styled-components";
 
 import { getSortedPostsData } from "../lib/posts";
 import Link from "next/link";
 import Date from "../components/date";
+
+import { breakpoints } from "../utils/breakpoints";
+import IntroParagraph from "../components/mdx/IntroParagraph";
 
 export async function getStaticProps() {
   const allPostsData = getSortedPostsData();
@@ -24,8 +28,10 @@ export default function Home({ allPostsData }) {
         <title>{siteTitle}</title>
       </Head>
       <section className={`${utilStyles.body} ${styles.center}`}>
-        (This website is under construction!{" "}
-        <a href="https://tanvi.network">here is some other stuff</a>.)
+       
+          (This website is under construction!{" "}
+          <a href="https://tanvi.network">here is some other stuff</a>.)
+       
       </section>
 
       {/* Add this <section> tag below the existing <section> tag.
