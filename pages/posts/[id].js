@@ -1,3 +1,6 @@
+// what does this page do? it has a template for the post!
+
+
 import Layout from "../../components/layout";
 import Head from "next/head";
 import Date from "../../components/date";
