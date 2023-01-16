@@ -42,6 +42,7 @@ export default function Home({ allPostsData }) {
        below the thing with two classname is a template literal */}
         <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
           <div className={styles.grid}>
+            {/* fix this section  */}
             {allPostsData.map(({ id, date, title }) => (
               <Link href={`/posts/${id}`} className={styles.card} key={id}>
                 <small className={utilStyles.dateText}>
