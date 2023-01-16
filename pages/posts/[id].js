@@ -1,5 +1,6 @@
 // what does this page do? it has a template for the post!
 
+import { MDXProvider } from "@mdx-js/react";
 
 import Layout from "../../components/layout";
 import Head from "next/head";
@@ -23,18 +24,20 @@ export async function getStaticProps({ params }) {
 
 export default function Post({ postData }) {
   return (
-    <Layout>
-      <Head>
-        <title>{postData.title}</title>
-      </Head>
-      <article>
-        <h1 className={utilStyles.headingXl}>{postData.title}</h1>
-        <div className={utilStyles.dateText}>
-          <Date dateString={postData.date} />
-        </div>
-        <div dangerouslySetInnerHTML={{ __html: postData.contentHtml }} />
-      </article>
-    </Layout>
+    <MDXProvider>
+      <Layout>
+        <Head>
+          <title>{postData.title}</title>
+        </Head>
+        <article>
+          <h1 className={utilStyles.headingXl}>{postData.title}</h1>
+          <div className={utilStyles.dateText}>
+            <Date dateString={postData.date} />
+          </div>
+          <div dangerouslySetInnerHTML={{ __html: postData.contentHtml }} />
+        </article>
+      </Layout>
+    </MDXProvider>
   );
 }
 
