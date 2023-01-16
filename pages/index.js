@@ -23,6 +23,20 @@ export async function getStaticProps() {
   };
 }
 
+// check if styled components are workin
+const StyledLink = styled.a`
+  background-color: var(--color-bright-crimson);
+  padding: var(--space-16) var(--space-24);
+  border-radius: var(--border-radius-base);
+  color: black;
+  font-weight: 400;
+  font-family: var(--font-sans);
+  transition: all 300ms ease-in-out;
+  :hover {
+    background-color: var(--color-medium-sea-blue);
+  }
+`;
+
 const components = {};
 
 export default function Home({ allPostsData }) {
@@ -50,6 +64,9 @@ export default function Home({ allPostsData }) {
                 <h3>{title}</h3>
               </Link>
             ))}
+            <StyledLink href="https://stackoverflow.com/questions/34959038/npm-stuck-giving-the-same-error-eisdir-illegal-operation-on-a-directory-read-a">
+              HELLO{" "}
+            </StyledLink>
           </div>
         </section>
       </Layout>
