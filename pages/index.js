@@ -1,3 +1,5 @@
+import { MDXProvider } from "@mdx-js/react";
+
 import Head from "next/head";
 import Layout, { siteTitle } from "../components/layout";
 
@@ -20,6 +22,8 @@ export async function getStaticProps() {
     },
   };
 }
+
+const components = {};
 
 export default function Home({ allPostsData }) {
   return (
