@@ -28,10 +28,10 @@ export default function Home({ allPostsData }) {
         <title>{siteTitle}</title>
       </Head>
       <section className={`${utilStyles.body} ${styles.center}`}>
-        <IntroParagraph>
+       
           (This website is under construction!{" "}
           <a href="https://tanvi.network">here is some other stuff</a>.)
-        </IntroParagraph>
+       
       </section>
 
       {/* Add this <section> tag below the existing <section> tag.
