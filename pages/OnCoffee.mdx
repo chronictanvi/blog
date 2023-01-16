@@ -1,21 +1,18 @@
 import IntroParagraph from "../components/mdx/IntroParagraph";
+import PostLayout from "../components/PostLayout";
 
----
-
-title: "On Coffee"
-date: "2022-02-07"
-
----
+export const meta = {
+  author: "YUCHI",
+  title: "On Coffee",
+  date: "2022-02-07",
+  status: "draft",
+};
 
 > Describe the aroma of coffee—why can’t it be done? Do we lack the words? and for what are words lacking?—But how do we get the idea that such a description must after all be possible? Have you ever felt the lack of such a description? Have you tried to describe the aroma and not succeeded?
 
 > — Ludwig Wittgenstein, from Philosophical Investigations (1953)
 
-<IntroParagraph>
-
 My partner and I have contrasting relationships with coffee. I have always been a proponent of Nestle’s instant coffee. It tastes decent to me, but in a clutch, I’ll accept any instant coffee. My mother used to make me cold coffee in the summers with a heap of sugar and ice, so sometimes I’ll let my hot drink get cold near the window and sip on it after a few hours have passed. A Latte doesn’t have to be perfect for me. I sprinkle some instant coffee and sugar in a mug of milk. I heat it for 1 minute 30 seconds and stir it up. I dip a cookie or two. It’s a process specific to me, but nothing that requires elaborate instructions.
-
-</IntroParagraph>
 
 I started dating someone new recently. We're still getting to know each other. I visited him in succession on early mornings and hence was introduced to his Italian Barista Machine. He would make a shot of espresso and taste it: he measures the beans, grinds them, keeping an eye on the weight the entire time. Next, he feeds it to the machine. The machine itself takes a few minutes to warm up.
 He then measures the dripped liquid. After tasting, he makes adjustments and dials the grind on the beans. He then froths the milk and serves it to me. He’ll try to make latte art and fail miserably. He’s proud of the coffee he serves me, and it is delicious.
@@ -30,3 +27,7 @@ The different ways how things work give rise to the different possibilities of e
 [^2]: The Human Condition by Hannah Arendt. Page 155
 
 IMAGE: Historical Relics in the Peter Collection, United States National Museum: 1—Bagdad coffee-roasting pan and stirrer. 2—Iron mortar and pestle used for pounding coffee. 3—Coffee mill used by General and Mrs. Washington. 4—Coffee-roasting pan used at Mt. Vernon. 5—Bagdad coffee pot with crow-bill spout)
+
+export default ({ children }) => (
+  <PostLayout postData={meta}>{children}</PostLayout>
+);
