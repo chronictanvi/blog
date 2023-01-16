@@ -23,32 +23,32 @@ export async function getStaticProps() {
 
 export default function Home({ allPostsData }) {
   return (
-    <Layout home className={utilStyles.container}>
-      <Head>
-        <title>{siteTitle}</title>
-      </Head>
-      <section className={`${utilStyles.body} ${styles.center}`}>
-       
+    <MDXProvider components={components}>
+      <Layout home className={utilStyles.container}>
+        <Head>
+          <title>{siteTitle}</title>
+        </Head>
+        <section className={`${utilStyles.body} ${styles.center}`}>
           (This website is under construction!{" "}
           <a href="https://tanvi.network">here is some other stuff</a>.)
-       
-      </section>
+        </section>
 
-      {/* Add this <section> tag below the existing <section> tag.
+        {/* Add this <section> tag below the existing <section> tag.
       
        below the thing with two classname is a template literal */}
-      <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
-        <div className={styles.grid}>
-          {allPostsData.map(({ id, date, title }) => (
-            <Link href={`/posts/${id}`} className={styles.card} key={id}>
-              <small className={utilStyles.dateText}>
-                <Date dateString={date} />
-              </small>
-              <h3>{title}</h3>
-            </Link>
-          ))}
-        </div>
-      </section>
-    </Layout>
+        <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
+          <div className={styles.grid}>
+            {allPostsData.map(({ id, date, title }) => (
+              <Link href={`/posts/${id}`} className={styles.card} key={id}>
+                <small className={utilStyles.dateText}>
+                  <Date dateString={date} />
+                </small>
+                <h3>{title}</h3>
+              </Link>
+            ))}
+          </div>
+        </section>
+      </Layout>
+    </MDXProvider>
   );
 }
