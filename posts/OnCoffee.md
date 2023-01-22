@@ -1,0 +1,24 @@
+---
+title: "On Coffee"
+date: "2022-02-07"
+---
+
+> Describe the aroma of coffee—why can’t it be done? Do we lack the words? and for what are words lacking?—But how do we get the idea that such a description must after all be possible? Have you ever felt the lack of such a description? Have you tried to describe the aroma and not succeeded?
+
+> — Ludwig Wittgenstein, from Philosophical Investigations (1953)
+
+My partner and I have contrasting relationships with coffee. I have always been a proponent of Nestle’s instant coffee. It tastes decent to me, but in a clutch, I’ll accept any instant coffee. My mother used to make me cold coffee in the summers with a heap of sugar and ice, so sometimes I’ll let my hot drink get cold near the window and sip on it after a few hours have passed. A Latte doesn’t have to be perfect for me. I sprinkle some instant coffee and sugar in a mug of milk. I heat it for 1 minute 30 seconds and stir it up. I dip a cookie or two. It’s a process specific to me, but nothing that requires elaborate instructions.
+
+I started dating someone new recently. We're still getting to know each other. I visited him in succession on early mornings and hence was introduced to his Italian Barista Machine. He would make a shot of espresso and taste it: he measures the beans, grinds them, keeping an eye on the weight the entire time. Next, he feeds it to the machine. The machine itself takes a few minutes to warm up.
+He then measures the dripped liquid. After tasting, he makes adjustments and dials the grind on the beans. He then froths the milk and serves it to me. He’ll try to make latte art and fail miserably. He’s proud of the coffee he serves me, and it is delicious.
+But why go through all the fuss? I would enjoy a cup of instant coffee just as much. And yet, I’ve never felt prideful of a cup of instant coffee, regardless of how much sugar I add to it. Before reading Heidegger, I didn’t understand what value could such a pretentious performance bring. I like instant coffee because it doesn’t require any labour. Arendt claims that technology is necessary, but automation would ruin us. Albert Borgmann expands on Arendt’s fears by making a distinction between things and devices: things require engagement and bring people together. Devices do the opposite; they automate an action and tend to make people drift apart. They are not necessarily cathartic or require skills.
+Does Marx’s vision of cathartic, creative labour [^1] even apply here when so much of ‘the ideal way to make coffee’ is rooted in capital? Coffee in itself is the drink of enhanced productivity. What does the process of making coffee, done in the two ways, say about our class divide? The anthropocentric utilitarianism of homo faber has found its greatest expression in the Kantian formula that no man must ever become a means to an end, that every human being is an end in himself.
+
+[^2] Conditions in the current system are defined by the solitude of an entrepreneur who practices auto-exploitation voluntarily. Under the guise of self-production and expression, possessions are a means of reproduction. A more refined taste is a measure of human capital. In the dialectical Aufhenung, the Italian Barista Machine uplifts but also traps.
+My partner would argue it is not the machine that traps. His family members have espresso machines, but they don’t commit to intellectually analyzing their espresso. They make it and drink it, regardless of if it’s bad or good. There is a certain bliss in this lack of attention to detail. Is noticing the finer notes a virtue in a sense? Who can afford to put in care? Is it valuable to be able to do so?
+The different ways how things work give rise to the different possibilities of experiences. Heidegger believed that technology shapes us irrevocably in certain ways. There is no way out. How does instant coffee shape me? I wonder if the proletariat-bourgeoise divide hinges on such elitist assigning of value. Take a mundane thing that nearly everyone engages in, fracture it, and associate the fragments with class. On a cold day in the mountains of Dehra, the drink that is brewed quickly and en mass wins hearts.
+
+[^1]: ["Psychopolitics: Neoliberalism and New Technologies of Power"](https://www.versobooks.com/books/2505-psychopolitics) by Byung-Chul Han. Page 23
+[^2]: The Human Condition by Hannah Arendt. Page 155
+
+IMAGE: Historical Relics in the Peter Collection, United States National Museum: 1—Bagdad coffee-roasting pan and stirrer. 2—Iron mortar and pestle used for pounding coffee. 3—Coffee mill used by General and Mrs. Washington. 4—Coffee-roasting pan used at Mt. Vernon. 5—Bagdad coffee pot with crow-bill spout)
