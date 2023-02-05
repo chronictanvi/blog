@@ -11,7 +11,7 @@ I am writing this with a mild headache, I didn't go outside all day today evern 
 
 Who can comfort me?
 
-### Anyway, here are the tabs I visited today, in no particular order.
+#### Anyway, here are the tabs I visited today, in no particular order.
 
 - https://archive.nytimes.com/opinionator.blogs.nytimes.com/2010/07/12/how-to-lose-a-legacy/
 - http://cultureandcommunication.org/galloway/premature-optimization-is-the-root-of-all-evil#more-2524
@@ -26,7 +26,7 @@ Who can comfort me?
 - https://www.hundredpixel.com/designfiction
 - http://www.aaronsw.com/
 
-### I also opened these tabs but never read through them:
+##### I also opened these tabs but never read through them:
 
 - https://www.seattletimes.com/business/technology/washington-state-tech-giants-share-strong-links-with-israeli-ai-startups-fueling-global-surveillance-networks-but-also-raising-ethical-concerns/
 - https://thebaffler.com/latest/capitalisms-new-clothes-morozov
