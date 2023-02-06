@@ -35,4 +35,4 @@ Even if I don’t remember it fully, can someone else dare to describe my pain?
 [^7]: Lovink, My First Recession: Critical Internet Culture in Transition (Amsterdam, 2003), p. 12.
 [^8]: See McKenzie Wark, “The Weird Global Media Event and the Tactical Intellectual [Version 3.0],” in New Media, Old Media: A History and Theory Reader, ed. Chun and Thomas Keenan (New York, 2006), pp. 265–76.
 
-IMAGE: by Hiller Goodspeed. Maybe This Time They WIll Understand.
+IMAGE: by Hiller Goodspeed. Maybe This Time They Will Understand.
