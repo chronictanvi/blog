@@ -1,10 +1,9 @@
 ---
-title: "Disturbed Hibernation"
+title: "ʕ•㉨•ʔ"
 date: "2023-02-28"
+---
 
 _*09:13 PM*_
-
-> ＼ʕ •ᴥ•ʔ／
 
 I recently started watching The Bear. The depiction of PTSD is pretty viseral — I think it captures the anxiety of the time, people having flashbacks and panic attacks because the distribution of their dentity between work, labor and polis ([[vita activa]]) is compromised.
 
@@ -16,3 +15,5 @@ Its hard to sit still and hold back. I vibrate with anxiety. I can't take it any
 I only feel this in group settings. I spend most of my time alone trying to chase hints of fleeting motivation. I vibrate with indecision. I'm in the backseat, not sure if my seat bealt is on. I sit in silence and let the urge to do something hold me captive with guilt.
 
 I'm not sure how I managed to write 3 paragraphs of this. Its cathartic, you would thing I would remember this feeling and recreate it. But that's not up to me. I'm not allowed to do this very often.
+
+ʕ ノ ಠᴥಠʔ ノ 彡 ┻━┻ /
