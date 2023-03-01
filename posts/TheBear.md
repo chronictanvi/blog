@@ -3,7 +3,7 @@ title: "ʕ•㉨•ʔ"
 date: "2023-02-28"
 ---
 
-\__09:13 PM_
+\_09:13 PM\_
 
 I recently started watching The Bear. The depiction of PTSD is pretty viseral — I think it captures the anxiety of the time, people having flashbacks and panic attacks because the distribution of their dentity between work, labour and action [vita activa] is compromised.
 
